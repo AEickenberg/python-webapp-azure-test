@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'deployment-test-ae'
           slot-name: 'dev'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5070C25B26214FB5883A24E93CC92FB5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E632CFEAB4E648D99121670A98AFAB1E }}
